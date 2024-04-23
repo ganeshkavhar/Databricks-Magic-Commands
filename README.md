@@ -1,5 +1,5 @@
 # Databricks-Magic-Commands
-databricks notebook command used for daily activity and inhance productivity
+## databricks notebook command used for daily activity and inhance productivity
 
 Here is a list of some of the Databricks magic commands:
 
